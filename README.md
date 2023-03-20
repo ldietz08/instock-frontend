@@ -1,6 +1,6 @@
 # InStock
 
-Instock is a full stack CRUD inventory management application. The app allows users to view current inventory, add or delete inventory and update existing items. The project was built together with three other developers and Jira was used for agile project management.
+Instock is a full stack CRUD inventory management application. The project was built together with three other developers and Jira was used for agile project management.
 
 https://user-images.githubusercontent.com/97055104/214982067-40802963-5775-4c3e-8579-26239a854757.mp4
 
@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/97055104/214982067-40802963-5775-4c3e-
 
 Natalia and I were responsible for building out the backend of this project with Node, Express and MySQL.
 
-This frontend was built in collaboration with:
+The frontend was built in collaboration with:
 
 Natalia (https://github.com/Awatanka) <br>
 Su (https://github.com/Su0112) <br>
